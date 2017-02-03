@@ -19,7 +19,7 @@ namespace JP_Test
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            MessageBox.Show("I like butts.");
         }
 
         private void button1_Click(object sender, EventArgs e)
